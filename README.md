@@ -4,13 +4,13 @@ Management and Analysis of Physical Dataset course A.Y. 2021/2022.
 
 ## Group 5:
 
-    - Agosti Luca
+- Agosti Luca
     
-    - Attar Aidin
+- Attar Aidin
     
-    - Baci Ema
+- Baci Ema
     
-    - Coppi Alberto
+- Coppi Alberto
 
 ## Professors:
 
@@ -22,11 +22,11 @@ Management and Analysis of Physical Dataset course A.Y. 2021/2022.
 
 ## Repository organization:
     
-    - The folder final_project.srcs contains the final files ready to be used in the computer connected to the FPGA.
+- The folder `final_project.srcs` contains the final files ready to be used in the computer connected to the FPGA.
     
-    - The Jupyter Notebook contains all python code used for calibration and data analysis
+- The Jupyter Notebook contains all python code used for calibration and data analysis
     
-    - The file Group5_MAPD_Project_Report.pdf is the final report
+- The file `Group5_MAPD_Project_Report.pdf` is the final report
 
 ## Abstract
 
